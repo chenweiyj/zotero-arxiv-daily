@@ -73,7 +73,7 @@ def get_block_html(title:str, authors:str, rate:str, tldr:str, pdf_url:str, affi
         </td>
     </tr>
     <tr>
-        <td style="font-size: 18px; line-height: 1.7; color: #333; padding: 8px 0;">
+        <td style="font-size: 18px; line-height: 1.3; color: #333; padding: 8px 0;">
             <strong>TLDR:</strong> {tldr}
         </td>
     </tr>
